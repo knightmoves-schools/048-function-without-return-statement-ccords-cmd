@@ -1,3 +1,4 @@
 function logUser(username) {
-  console.log('${username}');
+  console.log('user: ${username}');
 };
+
